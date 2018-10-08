@@ -1,0 +1,13 @@
+p.klaspierwsza{
+    color: deeppink;
+}
+
+body{
+    background: aqua;
+
+}
+ul li {
+    display: inline;
+    background: black;
+    color: white;
+}
