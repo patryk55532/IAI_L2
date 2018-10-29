@@ -27,3 +27,16 @@ a:hover {
 color: black;
 background-color: white;
 }
+
+div.hours ul {
+    text-align: left;
+    display: block;
+    background: white;
+    color: black;
+}
+
+div.hours ul li {
+    display: block;
+    background: white;
+    color: black;
+}
