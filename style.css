@@ -1,0 +1,18 @@
+p.klaspierwsza{
+    color: deeppink;
+}
+
+body{
+    background: white;
+
+}
+ul li {
+    display: inline;
+    background: black;
+    color: white;
+}
+ul {
+    text-align: center;
+    background: black;
+    color: white;
+}
